@@ -11,7 +11,7 @@ All settings can be modified from the system tray icon:
 FPS: How often the keyboard updates  
 Maximum brightness: Maximum brightness  
 Skip Threshold: Minimum color change to trigger an update  
-Show RGB values: Optional display of RGB values on screen (default: OFF)  
+Show RGB values: Optional display of RGB values on screen  
 
 Installation :
 Go to the Releases  
