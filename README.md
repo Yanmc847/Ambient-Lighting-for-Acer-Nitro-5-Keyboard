@@ -7,7 +7,7 @@ Compatibility :
 Work on Acer Nitro 5 AN515-57 and potentially with other Acer Nitro 5 laptops with 4-zone RGB keyboards  
 
 Parameters :
-All settings can be modified from the system tray icon:
+All settings can be modified from the system tray icon:  
 FPS: How often the keyboard updates  
 Maximum brightness: Maximum brightness  
 Skip Threshold: Minimum color change to trigger an update  
