@@ -9,8 +9,7 @@ Work on Acer Nitro 5 AN515-57 and potentially with other Acer Nitro 5 laptops wi
 Parameters :
 All settings can be modified from the system tray icon:
 FPS: How often the keyboard updates 
-Minimum Brightness: Base brightness level of the keyboard
-Brightness Variation: Maximum additional brightness based on screen content (Min + Variation ≤ 100)
+Maximum brightness: Maximum brightness
 Skip Threshold: Minimum color change to trigger an update
 Show RGB values: Optional display of RGB values on screen (default: OFF)
 
