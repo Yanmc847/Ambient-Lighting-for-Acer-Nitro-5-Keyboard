@@ -1,4 +1,7 @@
 # Ambient-Lighting-for-Acer-Nitro-5-Keyboard
+
+![](./demo.gif)
+
 Ambient Lighting for Acer Nitro 5 Keyboard  
 
 Allows you to synchronizes your keyboard backlight with the video on your screen.  
