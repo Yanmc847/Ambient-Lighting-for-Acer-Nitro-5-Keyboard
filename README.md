@@ -4,7 +4,8 @@
 
 Ambient Lighting for Acer Nitro 5 Keyboard  
 
-Allows you to synchronizes your keyboard backlight with the video on your screen.  
+Allows you to synchronizes your keyboard backlight with the video on your screen.
+You may need to disable hardware acceleration in your browser settings to work on Netflix.
 
 Compatibility :
 Work on Acer Nitro 5 AN515-57 and potentially with other Acer Nitro 5 laptops with 4-zone RGB keyboards  
