@@ -22,3 +22,4 @@ Go to the Releases
 Download the EXE file  
 Run the EXE as Administrator  
 The tool will appear in your system tray (hidden icons)
+In NitroSense your keyboard need to be in static and not dynamic
